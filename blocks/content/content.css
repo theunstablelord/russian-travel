@@ -1,0 +1,11 @@
+.content {
+  display: grid;
+  grid-template-columns: 148px 1fr 148px;
+  grid-template-areas: 
+    ". lead ."
+    ". intro ."
+    ". photo-grid ."
+    ". places ."
+    "cover cover cover";
+    row-gap: 92px;
+}

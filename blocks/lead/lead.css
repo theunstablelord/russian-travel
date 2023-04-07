@@ -1,0 +1,7 @@
+.lead {
+  grid-area: lead;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  row-gap: 32px;
+}
