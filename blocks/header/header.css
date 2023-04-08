@@ -1,7 +1,7 @@
 .header {
   grid-area: header;
-  max-width: 1184px;
+  padding: 28px 0 56px;
   display: flex;
   justify-content: space-between;
-  padding: 28px 48px 56px;
+  align-items: flex-end;
 }
