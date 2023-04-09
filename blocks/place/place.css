@@ -28,12 +28,12 @@
 @media screen and (max-width: 767px) {
   .place {
     grid-template-columns: 16px minmax(288px, 1fr) 16px;
-    grid-gap: 32px 0; 
+    grid-gap: 32px 0;
     grid-template-areas: 
     ". title ."
     ". website ."
     "image image image"
-    ". text ."; 
+    ". text .";
     margin-bottom: 50px;
   }
 }
