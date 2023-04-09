@@ -47,5 +47,6 @@
       "places places places"
       "cover cover cover";
       row-gap: 64px;
+      margin-bottom: 64px;
   }
 }

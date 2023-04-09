@@ -7,5 +7,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  row-gap: 16px;
+  .lead {
+    row-gap: 16px;
+  }
 }
