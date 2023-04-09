@@ -4,7 +4,7 @@
   box-sizing: border-box;
   display: flex;
   position: relative;
-  background-image: url(../../images/background/cover__background.jpg);
+  background-image: url(../../images/cover/cover__background.jpg);
   background-position: center center;
   background-size: 100%;
   background-repeat: no-repeat;
